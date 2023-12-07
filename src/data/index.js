@@ -29,5 +29,4 @@ export const mainCarouselData = [
   },
 ];
 
-/** Tabs search by Property Data */
-export const webServicesTabs = ['venta', 'arriendo ', 'arriendo_temporal'];
+
